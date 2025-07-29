@@ -47,8 +47,8 @@ export const DashboardSidebar = () => {
     <Sidebar>
       <SidebarHeader className="text-sidebar-accent-foreground">
         <Link href="/" className="flex items-center gap-2 px-2 pt-2">
-          <Image src="/logo.svg" height={36} width={36} alt="MeetAi" />
-          <p className="text-2xl font-semibold">Meet.AI</p>
+          <Image src="/logo.svg" height={36} width={36} alt="NeuralMeet" />
+          <p className="text-2xl font-semibold">NeuralMeet</p>
         </Link>
       </SidebarHeader>
       <div className="px-4 py-2">
