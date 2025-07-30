@@ -12,7 +12,7 @@ export const DataPagination = ({ page, totalPages, onPageChange }: Props) => {
       <div className="flex-1 text-sm text-muted-foreground">
         Page {page} of {totalPages || 1}
       </div>
-      <div className="flex items-center jystify-end space-x-2 py-4">
+      <div className="flex items-center justify-end space-x-2 py-4">
         <Button 
         disabled={page === 1}
         variant="outline"
