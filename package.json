@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "db:push": "drizzle-kit push",
-    "db:studio": "drizzle-kit studio"
+    "db:studio": "drizzle-kit studio",
+    "dev:webhook": "ngrok http --url=relieved-sweet-swine.ngrok-free.app 3000"
   },
   "dependencies": {
     "@dicebear/collection": "^9.2.3",
@@ -42,6 +43,7 @@
     "@radix-ui/react-toggle-group": "^1.1.10",
     "@radix-ui/react-tooltip": "^1.2.7",
     "@stream-io/node-sdk": "^0.5.1",
+    "@stream-io/openai-realtime-api": "^0.3.3",
     "@stream-io/video-react-sdk": "^1.19.1",
     "@tanstack/react-query": "^5.76.1",
     "@tanstack/react-table": "^8.21.3",
