@@ -23,7 +23,6 @@ import { Avatar, AvatarImage } from "@/components/ui/avatar";
 import { GeneratedAvatar } from "@/components/generated-avatar";
 
 import {
-  ChevronDown,
   ChevronDownIcon,
   CreditCardIcon,
   LogOutIcon,
