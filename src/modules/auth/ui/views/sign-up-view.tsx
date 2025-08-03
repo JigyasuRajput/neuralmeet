@@ -6,6 +6,7 @@ import { useRouter } from "next/navigation";
 import { FaGithub, FaGoogle } from "react-icons/fa";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { OctagonAlertIcon } from "lucide-react";
+import Image from "next/image";
 
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
@@ -230,10 +231,11 @@ export const SignUpView = () => {
           </Form>
 
           <div className="bg-radial from-sidebar-accent to-sidebar relative hidden md:flex flex-col gap-y-4 items-center justify-center">
-            <img
+            <Image
               src="/logo.svg"
               alt="NeuralMeet Logo"
-              className="h-[92px] w-[92px]"
+              width={92}
+              height={92}
             />
             <p className="text-white text-2xl font-semibold">NeuralMeet</p>
           </div>
