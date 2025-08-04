@@ -93,7 +93,7 @@ NeuralMeet is a next-generation video conferencing platform that integrates AI a
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/neuralmeet.git
+git clone https://github.com/JigyasuRajput/neuralmeet.git
 cd neuralmeet
 ```
 
@@ -180,14 +180,6 @@ npm run db:push      # Push database schema
 npm run db:studio    # Open Drizzle Studio
 ```
 
-## 🎯 Roadmap
-
-- [ ] **Phase 1**: Core video calling with AI transcription
-- [ ] **Phase 2**: Advanced AI agents and meeting summaries  
-- [ ] **Phase 3**: Team collaboration features
-- [ ] **Phase 4**: Enterprise integrations and analytics
-- [ ] **Phase 5**: Mobile applications
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
@@ -206,9 +198,9 @@ For support and questions:
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the NeuralMeet team</p>
+  <p>Built with ❤️ by Jigyasu Rajput</p>
   <p>
     <a href="https://x.com/Jigyasu_rajput">Twitter</a> •
-    <a href="https://www.linkedin.com/in/jigyasu-rajput-218657284/">LinkedIn</a> •
+    <a href="https://www.linkedin.com/in/jigyasu-rajput-218657284/">LinkedIn</a> 
   </p>
 </div>
