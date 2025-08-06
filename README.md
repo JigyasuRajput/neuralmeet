@@ -20,7 +20,7 @@
 
 ## ✨ Overview
 
-NeuralMeet is a Software as a Service (SaaS) video calling platform powered by artificial intelligence. The core feature is that users can have real-time video calls with AI agents trained for specific roles, such as a language tutor, an interview coach, or a custom agent with a unique personality.
+NeuralMeet is a Software as a Service (SaaS) video calling platform powered by AI. The core feature is that users can have real-time video calls with AI agents trained for specific roles, such as a language tutor, an interview coach, or a custom agent with a unique personality.
 
 After a call, the platform automatically processes the meeting to provide a structured summary, a fully searchable transcript, and a complete call recording. It also includes a chat interface that understands the context of the meeting, allowing users to ask specific questions about the conversation.
 
